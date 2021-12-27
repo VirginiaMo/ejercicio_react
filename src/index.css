@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+
+.formulario{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-top: 2rem;
+
+}
+.formulario label{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+.formulario input{
+    height: 4vh;
+    width: 100%;
+    font-size: 14px;
+    border-top-right-radius: 5px;
+    border-top-left-radius:5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-left: 0.7rem;
+}
+.footer{
+    text-align: left;
+    margin-top: 15vh;
+    color:#A5A8B3;
+    letter-spacing: -0.02em;
+    margin-bottom: 2rem;
+    font-size: 12px;
+    line-height: 20px;
+}
+.titleContainer{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 28px;
+
+  
+}
+.titleContainer .alumnos{
+  color:#32D5A4;
+  
+}
+.vertical-line{
+      width: 4px; /* Line width */
+      height:3.5vh;
+      margin-top: 1rem;
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+     background-color:#32D5A4;
+}
+.imagen img{
+ width:100%;
+ 
+}
+.checkboxAnchor{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+
+}
+.checkboxAnchor input{
+  height: 14px;
+  margin-left: -6rem;
+
+}
+.checkboxAnchor label{
+font-size: 14px;
+margin-left: -6rem;
+margin-top: 1px;
+font-family: 'Raleway', sans-serif;
+margin-right: 4rem;
+}
+.checkboxAnchor a{
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+  width: 300px;
+ }
+ button{
+  height: 4vh;
+  width: 100%;
+  background-color: #32D5A4;
+  color:white;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 20px;
+  border-top-right-radius: 5px;
+  border-top-left-radius:5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+ }
