@@ -1,0 +1,40 @@
+@media screen and (min-width: 800px){
+    .titleContainer{
+        font-size: 20px;
+        line-height: 28px;
+      
+      }
+
+      .vertical-line{
+        width: 4px; /* Line width */
+        height:4.5vh;
+        margin-top: 1.3rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+       background-color:#32D5A4;
+  }
+}
+@media screen and (min-width: 1200px){
+
+  .titleContainer{
+    font-size: 15px;
+    line-height: 28px;
+    margin-left: 0.5rem;
+  
+  }
+  .vertical-line{
+    width: 4px; /* Line width */
+    height:3vh;
+    margin-top: 13.1rem;
+  
+}
+.titleContainer h1{
+  margin-top: 13rem;
+}
+}
+@media screen and (min-width: 1500px){
+  .titleContainer{
+    margin-left: 2rem;
+
+}
+}

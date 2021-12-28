@@ -1,3 +1,5 @@
+import './Login.css'
+
 const login = () => {
     return (  
 
@@ -7,7 +9,7 @@ const login = () => {
                 <label>Contraseña</label>
                 <input type="text" placeholder="Introduce tu contraseña"></input>
             <div className="checkboxAnchor">
-                <input type="checkbox"></input>
+                <input className="input" type="checkbox"></input>
                 <label>Recuérdame</label>
                 <a href="/#">He olvidado la contraseña</a>
             </div>

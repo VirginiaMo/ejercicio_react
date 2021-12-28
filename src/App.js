@@ -1,8 +1,8 @@
 import './App.css';
-import Login from './components/login';
-import Header from './components/header';
-import Footer from './components/footer';
-import Imagen from './components/imagen';
+import Login from './components/login/Login';
+import Header from './components/header/Header';
+import Footer from './components/footer/Footer';
+import Imagen from './components/imagen/Imagen';
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Header />
       <Imagen />
-      <Login/>
+      <Login />
       <Footer />
  
     </div>

@@ -1,0 +1,17 @@
+
+@media screen and (min-width: 1200px){
+    .imagen {
+        margin-left: 25rem;
+        width: 100%;
+        margin-top: -18rem;
+    
+    }
+}
+@media screen and (min-width: 1500px){
+.imagen{
+    width: 70%;
+    margin-left: 30rem;
+}
+}
+
+

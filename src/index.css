@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
-  margin: 0;
   font-family: 'Raleway', sans-serif;
 
 }
-
+/*   pantalla 375px móvil*/
 
 .formulario{
   display: flex;
@@ -103,3 +102,4 @@ margin-right: 4rem;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
  }
+

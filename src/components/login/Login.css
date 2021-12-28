@@ -1,0 +1,76 @@
+@media screen and (min-width: 480px){
+    .checkboxAnchor input{
+
+        margin-left: -11.5rem;
+      
+      }
+      .checkboxAnchor label{
+      margin-left: -11rem;
+      margin-top: 1px;
+      margin-right: 6rem;
+      }
+
+}
+@media screen and (min-width: 600px){
+
+    .checkboxAnchor input{
+
+        margin-left: -17rem;
+      
+      }
+      .checkboxAnchor label{
+        margin-left: -16.5rem;
+        margin-top: 1px;
+        margin-right: 10rem;
+        }
+}
+@media screen and (min-width: 800px){
+
+    .checkboxAnchor input{
+
+        margin-left: -23.5rem;
+      
+      }
+      .checkboxAnchor label{
+        margin-left: -23.5rem;
+        margin-top: 1px;
+        margin-right: 17rem;
+        }
+
+}
+@media screen and (min-width: 1200px){
+.formulario{
+  margin-left: 2rem;
+margin-top: -38rem;
+  }
+.formulario input{
+width: 25%;
+}
+button{
+  width: 25%;
+}
+.checkboxAnchor input{
+  height: 14px;
+  margin-left: -8.5rem;
+
+}
+.checkboxAnchor label{
+  margin-left: -8rem;
+  margin-right: 1.5rem;
+}
+
+}
+@media screen and (min-width: 1500px){
+  .formulario{
+    margin-top: -32rem;
+    margin-left: 2rem;
+      }
+  .checkboxAnchor input{
+    margin-left: -10.7rem;
+  }
+  .checkboxAnchor label{
+    margin-left: -10.3rem;
+    margin-right: 4rem; 
+  }
+
+}
