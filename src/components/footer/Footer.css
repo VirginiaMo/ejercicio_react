@@ -1,0 +1,18 @@
+@media screen and (min-width: 1200px){
+    .footer{
+        text-align: left;
+        margin-top: 12rem;
+        color:#A5A8B3;
+        letter-spacing: -0.02em;
+        margin-bottom: -2rem;
+        font-size: 12px;
+        line-height: 20px;
+        margin-left: 2rem;
+    }
+}
+@media screen and (min-width: 1500px){
+    .footer{
+        margin-top: 7rem;
+        margin-left: 2rem;
+    }
+}
